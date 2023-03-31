@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.price {
+  background-color: blueviolet;
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+}
+
+.price .amount {
+  border: 0;
+  border-radius: 5px;
+  background-color: #eee;
+  padding: 20px;
+}
+.price .amount:focus {
+  outline: none;
+}
+
+.price .euro {
+  margin-top: 20px;
+}

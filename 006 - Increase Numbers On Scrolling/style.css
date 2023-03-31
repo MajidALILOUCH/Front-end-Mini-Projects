@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+section {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section:first-child {
+  background-color: #aaa;
+}
+section:nth-child(2) {
+  background-color: #bbb;
+}
+section:nth-child(3) {
+  background-color: #ccc;
+}
+.two .container {
+  width: 700px;
+  background-color: black;
+  padding: 30px;
+}
+.two .container h2 {
+  text-transform: capitalize;
+  font-size: 40px;
+  margin: 0 auto 60px;
+  font-weight: bold;
+  width: fit-content;
+  color: white;
+}
+.two .container .content {
+  display: flex;
+  justify-content: space-between;
+}
+.two .container .box {
+  background-color: white;
+  padding: 25px;
+  text-align: center;
+  text-transform: capitalize;
+  position: relative;
+}
+.two .container .box::before,
+.two .container .box::after {
+  content: "";
+  position: absolute;
+  transition: 1s;
+  width: 2px;
+  height: 0;
+  background-color: crimson;
+}
+.two .container .box::before {
+  left: 0;
+  top: 0;
+}
+.two .container .box::after {
+  right: 0;
+  bottom: 0;
+}
+.two .container .box:hover:before,
+.two .container .box:hover:after {
+  height: 100%;
+}
+.two .container .box .number {
+  font-size: 45px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  display: block;
+}
+.two .container .box .text {
+  font-weight: bold;
+  color: crimson;
+  font-size: 20px;
+  display: block;
+  font-style: italic;
+}
