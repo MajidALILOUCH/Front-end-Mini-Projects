@@ -32,4 +32,3 @@ This repository is based on 2 courses by Brad Traversy:
 The other projects are adapted from various YouTube channels:
 
 - Osama Elzero - [Elzero Web School](https://www.youtube.com/@ElzeroWebSchool)
-- Brad Traversy - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
