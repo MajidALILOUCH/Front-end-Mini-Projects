@@ -5,7 +5,7 @@ Mini Projects Using HTML, CSS And Vanilla Javascript
 
 |  #  | Project                                                                | Live Demo                                                |
 | :-: | ---------------------------------------------------------------------- | -------------------------------------------------------- |
-| 001 | [Expanding Cards](001-expanding%20cards)                               | [Live Demo](https://codepen.io/solygambas/full/qBaMWjE)  |
+| 001 | [Random Element From Sequence](001%20-%20Random%20Element%20From%20Sequence) | [Live Demo](https://codepen.io/solygambas/full/qBaMWjE)  |
 | 002 | [Progress Steps](002-progress%20steps)                                 | [Live Demo](https://codepen.io/solygambas/full/VwKGzzg)  |
 | 003 | [Rotating Navigation Animation](003-rotating%20navigation)             | [Live Demo](https://codepen.io/solygambas/full/jOMvZqY)  |
 | 004 | [Hidden Search Widget](004-hidden%20search%20widget)                   | [Live Demo](https://codepen.io/solygambas/full/mdrzdPB)  |
