@@ -32,6 +32,9 @@ function getRepos() {
           // Append The Text To Main Div
           mainDiv.appendChild(repoName);
 
+          // Create link and stars holder
+          let linkHolder = document.createElement("div");
+
           // Create Repo URL Anchor
           let theUrl = document.createElement("a");
 
@@ -47,8 +50,8 @@ function getRepos() {
           // Set Attribute Blank
           theUrl.setAttribute("target", "_blank");
 
-          // Append Url Anchor To Main Div
-          mainDiv.appendChild(theUrl);
+          // Append Url Anchor To link holder
+          linkHolder.appendChild(theUrl);
 
           // Create Stars Count Span
           let starsSpan = document.createElement("span");
@@ -61,8 +64,11 @@ function getRepos() {
           // Add Stars Count Text To Stars Span
           starsSpan.appendChild(starsText);
 
-          // Append Stars Count Span To Main Div
-          mainDiv.appendChild(starsSpan);
+          // Append Stars Count Span To link holder
+          linkHolder.appendChild(starsSpan);
+
+          // Append link holder to main div
+          mainDiv.appendChild(linkHolder);
 
           // Add Class On Main Div
           mainDiv.className = "repo-box";

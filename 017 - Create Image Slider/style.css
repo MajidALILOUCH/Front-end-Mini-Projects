@@ -1,14 +1,13 @@
 * {
   box-sizing: border-box;
-  margin: 0;
   padding: 0;
 }
 body {
   font-family: Tahoma, Arial;
 }
 .slider-container {
-  margin: 10px auto;
-  width: 800px;
+  margin: auto;
+  max-width: 800px;
   height: 250px;
   position: relative;
 }
@@ -36,8 +35,8 @@ body {
   border-radius: 6px;
 }
 .slider-controls {
-  width: 800px;
-  margin: auto;
+  max-width: 800px;
+  margin: 10px auto;
   overflow: hidden;
 }
 .slider-controls .prev,

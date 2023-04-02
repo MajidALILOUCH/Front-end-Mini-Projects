@@ -5,14 +5,20 @@ body {
   font-family: Tahoma, Arial;
 }
 .repos-container {
-  width: 800px;
+  max-width: 800px;
   background-color: #f6f6f6;
   margin: auto;
 }
 .repos-container .get-repos {
   padding: 20px;
   display: flex;
+  gap: 15px;
   background-color: #eee;
+}
+@media (max-width: 767px) {
+  .repos-container .get-repos {
+    flex-direction: column;
+  }
 }
 .repos-container .get-repos input {
   width: 100%;
@@ -26,7 +32,6 @@ body {
 }
 .repos-container .get-repos .get-button {
   width: 140px;
-  margin-left: 10px;
   height: 54px;
   background-color: #f44336;
   color: #fff;
@@ -35,21 +40,37 @@ body {
   border: 0;
   cursor: pointer;
 }
+@media (max-width: 767px) {
+  .repos-container .get-repos .get-button {
+    width: 100%;
+  }
+}
 .repos-container .show-data {
   padding: 20px;
   background-color: #e0e0e0;
 }
 .repos-container .show-data .repo-box {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  align-items: center;
   background-color: #fff;
   padding: 15px;
+}
+@media (max-width: 767px) {
+  .repos-container .show-data .repo-box {
+    flex-direction: column;
+  }
 }
 .repos-container .show-data .repo-box:not(:last-child) {
   margin-bottom: 5px;
 }
+.repos-container .show-data .repo-box > div {
+  display: flex;
+  align-items: center;
+}
 .repos-container .show-data .repo-box a,
 .repos-container .show-data .repo-box span {
-  float: right;
-  margin-left: 4px;
   border-radius: 4px;
   color: #fff;
   font-size: 12px;
@@ -63,4 +84,5 @@ body {
 }
 .repos-container .show-data .repo-box span {
   background-color: #009688;
+  margin-left: 10px;
 }

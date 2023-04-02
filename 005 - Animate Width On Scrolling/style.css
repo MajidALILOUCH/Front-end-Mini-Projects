@@ -11,24 +11,24 @@ section {
   justify-content: center;
   align-items: center;
 }
-section:first-child {
+section:first-of-type {
   background-color: #aaa;
 }
-section:nth-child(2) {
+section:nth-of-type(2) {
   background-color: #bbb;
-}
-section:nth-child(3) {
-  background-color: #ccc;
 }
 section:last-of-type {
   background-color: #eee;
 }
+.skills {
+  width: 500px;
+  margin: 0 20px;
+}
 .progress {
   position: relative;
-  width: 500px;
   height: 30px;
   background-color: white;
-  margin: 10px;
+  margin: 10px 0;
 }
 .progress span {
   position: absolute;

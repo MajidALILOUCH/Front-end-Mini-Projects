@@ -12,9 +12,14 @@ body {
   font-weight: bold;
   cursor: pointer;
   background-color: #eee;
-  min-width: 105px;
   text-align: center;
   transition: 0.2s;
+}
+@media (max-width: 767px) {
+  .switcher li {
+    padding: 8px 12px;
+    font-size: 14px;
+  }
 }
 .switcher li.active,
 .switcher li:hover {
@@ -24,12 +29,16 @@ body {
 .gallery {
   display: flex;
   flex-wrap: wrap;
-  width: 800px;
+  justify-content: center;
+  gap: 10px;
+  max-width: 800px;
   margin: auto;
 }
 .gallery img {
-  margin-bottom: 10px;
   transition: 0.3s;
-  margin-left: 5px;
-  margin-right: 5px;
+}
+@media (max-width: 767px) {
+  .gallery img {
+    width: 100px;
+  }
 }

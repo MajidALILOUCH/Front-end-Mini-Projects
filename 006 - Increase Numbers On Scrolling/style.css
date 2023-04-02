@@ -11,38 +11,51 @@ section {
   justify-content: center;
   align-items: center;
 }
-section:first-child {
+section:first-of-type {
   background-color: #aaa;
 }
-section:nth-child(2) {
+section:nth-of-type(2) {
   background-color: #bbb;
 }
-section:nth-child(3) {
+section:last-of-type {
   background-color: #ccc;
 }
 .two .container {
   width: 700px;
   background-color: black;
-  padding: 30px;
+  padding: 20px;
+  margin: 0 20px;
+  text-align: center;
 }
 .two .container h2 {
   text-transform: capitalize;
-  font-size: 40px;
-  margin: 0 auto 60px;
+  font-size: 35px;
+  margin: 0 auto 30px;
   font-weight: bold;
   width: fit-content;
   color: white;
 }
 .two .container .content {
   display: flex;
-  justify-content: space-between;
+  gap: 20px;
+}
+@media (max-width: 767px) {
+  .two .container .content {
+    flex-direction: column;
+  }
 }
 .two .container .box {
+  width: calc((100% - 60px) / 4);
   background-color: white;
   padding: 25px;
   text-align: center;
   text-transform: capitalize;
   position: relative;
+}
+@media (max-width: 767px) {
+  .two .container .box {
+    width: 100%;
+  }
 }
 .two .container .box::before,
 .two .container .box::after {

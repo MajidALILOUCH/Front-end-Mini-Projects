@@ -26,45 +26,39 @@
   ---- [06] Add 3 Seconds For The First Word
 */
 
-// Arrays Of Words
-const words = {
-  easyWords: [
-    "Code",
-    "Town",
-    "Task",
-    "Test",
-    "Rust",
-    "Roles",
-    "Hello",
-    "Runner",
-  ],
-  normalWords: [
-    "Country",
-    "Testing",
-    "Youtube",
-    "Linkedin",
-    "Twitter",
-    "Github",
-    "Leetcode",
-    "Internet",
-    "Python",
-    "Scala",
-    "Paradigm",
-    "Styling",
-    "Cascade",
-    "Coding",
-    "Funny",
-    "Working",
-    "Playing",
-  ],
-  hardWords: [
-    "Programming",
-    "Javascript",
-    "Destructuring",
-    "Documentation",
-    "Dependencies",
-  ],
-};
+// Array Of Words
+const words = [
+  "Code",
+  "Town",
+  "Task",
+  "Test",
+  "Rust",
+  "Roles",
+  "Hello",
+  "Runner",
+  "Country",
+  "Testing",
+  "Youtube",
+  "Linkedin",
+  "Twitter",
+  "Github",
+  "Leetcode",
+  "Internet",
+  "Python",
+  "Scala",
+  "Paradigm",
+  "Styling",
+  "Cascade",
+  "Coding",
+  "Funny",
+  "Working",
+  "Playing",
+  "Programming",
+  "Javascript",
+  "Destructuring",
+  "Documentation",
+  "Dependencies",
+];
 
 // Setting Levels
 const lvls = {
