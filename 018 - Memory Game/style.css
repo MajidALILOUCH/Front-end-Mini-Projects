@@ -27,7 +27,7 @@ body {
   cursor: pointer;
 }
 .info-container {
-  max-width: 1080px;
+  width: 1080px;
   margin: 20px auto 0;
   background-color: #f6f6f6;
   padding: 20px;
@@ -46,7 +46,7 @@ body {
 }
 .memory-game-blocks {
   display: flex;
-  max-width: 1100px;
+  width: 1100px;
   flex-wrap: wrap;
   margin: 20px auto;
 }
