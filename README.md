@@ -22,7 +22,7 @@ Mini Projects Using HTML, CSS And Vanilla Javascript
 | 015 | [To-Do App With Local Storage](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/015%20-%20To-Do%20App%20With%20Local%20Storage)| [Live Demo](https://codepen.io/majid_alilouch/full/gOdNgpw)  |
 | 016 | [Create Typing Speed Test Game](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/016%20-%20Create%20Typing%20Speed%20Test%20Game)| [Live Demo](https://codepen.io/majid_alilouch/full/WNgqRvZ)  |
 | 017 | [Create Image Slider](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/017%20-%20Create%20Image%20Slider)                     | [Live Demo](https://codepen.io/majid_alilouch/full/MWqMJaX)  |
-
+| 018 | [Memory Game](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/017%20-%20Memory%20Game)                                       | [Live Demo](https://codepen.io/majid_alilouch/full/BaqaKqE)  |
 
 This repository is based on 2 courses by Brad Traversy:
 
