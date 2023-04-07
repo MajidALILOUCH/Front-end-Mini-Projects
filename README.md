@@ -24,7 +24,7 @@ Mini Projects Using HTML, CSS And Vanilla Javascript
 | 017 | [Create Image Slider](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/017%20-%20Create%20Image%20Slider)                     | [Live Demo](https://codepen.io/majid_alilouch/full/MWqMJaX)  |
 | 018 | [Memory Game](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/018%20-%20Memory%20Game)                                       | [Live Demo](https://codepen.io/majid_alilouch/full/BaqaKqE)  |
 | 021 | [Expanding Cards](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/021%20-%20Expanding%20Cards)                               | [Live Demo](https://codepen.io/majid_alilouch/full/eYPmdmM)  |
-| 018 | [Progress Steps](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/022%20-%20Progress%20Steps)                                 | [Live Demo](https://codepen.io/majid_alilouch/full/xxybEGm)  |
+| 022 | [Progress Steps](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/022%20-%20Progress%20Steps)                                 | [Live Demo](https://codepen.io/majid_alilouch/full/xxybEGm)  |
 
 This repository is based on 2 courses by Brad Traversy:
 
