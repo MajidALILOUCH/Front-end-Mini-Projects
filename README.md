@@ -25,6 +25,7 @@ Mini Projects Using HTML, CSS And Vanilla Javascript
 | 018 | [Memory Game](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/018%20-%20Memory%20Game)                                       | [Live Demo](https://codepen.io/majid_alilouch/full/BaqaKqE)  |
 | 021 | [Expanding Cards](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/021%20-%20Expanding%20Cards)                               | [Live Demo](https://codepen.io/majid_alilouch/full/eYPmdmM)  |
 | 022 | [Progress Steps](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/022%20-%20Progress%20Steps)                                 | [Live Demo](https://codepen.io/majid_alilouch/full/xxybEGm)  |
+| 023 | [Rotating Navigation Animation](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/023%20-%20Rotating%20Navigation%20Animation) | [Live Demo](https://codepen.io/majid_alilouch/full/qBJEJEd)  |
 
 This repository is based on 2 courses by Brad Traversy:
 
