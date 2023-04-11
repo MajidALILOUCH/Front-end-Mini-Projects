@@ -26,6 +26,8 @@ Mini Projects Using HTML, CSS And Vanilla Javascript
 | 021 | [Expanding Cards](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/021%20-%20Expanding%20Cards)                               | [Live Demo](https://codepen.io/majid_alilouch/full/eYPmdmM)  |
 | 022 | [Progress Steps](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/022%20-%20Progress%20Steps)                                 | [Live Demo](https://codepen.io/majid_alilouch/full/xxybEGm)  |
 | 023 | [Rotating Navigation Animation](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/023%20-%20Rotating%20Navigation%20Animation) | [Live Demo](https://codepen.io/majid_alilouch/full/qBJEJEd)  |
+| 024 | [Hidden Search Widget](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/024%20-%20Hidden%20Search%20Widget)                   | [Live Demo](https://codepen.io/majid_alilouch/full/oNaXPRv)  |
+| 025 | [Blurry Loading](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/025%20-%20Blurry%20Loading)                                 | [Live Demo](https://codepen.io/majid_alilouch/full/QWZbVRO)  |
 
 This repository is based on 2 courses by Brad Traversy:
 
