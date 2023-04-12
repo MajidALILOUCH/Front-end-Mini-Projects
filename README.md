@@ -28,6 +28,8 @@ Mini Projects Using HTML, CSS And Vanilla Javascript
 | 023 | [Rotating Navigation Animation](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/023%20-%20Rotating%20Navigation%20Animation) | [Live Demo](https://codepen.io/majid_alilouch/full/qBJEJEd)  |
 | 024 | [Hidden Search Widget](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/024%20-%20Hidden%20Search%20Widget)                   | [Live Demo](https://codepen.io/majid_alilouch/full/oNaXPRv)  |
 | 025 | [Blurry Loading](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/025%20-%20Blurry%20Loading)                                 | [Live Demo](https://codepen.io/majid_alilouch/full/QWZbVRO)  |
+| 026 | [Scroll Animation](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/026%20-%20Scroll%20Animation)                             | [Live Demo](https://codepen.io/majid_alilouch/full/poxjmrV)  |
+| 027 | [Split Landing Page](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/027%20-%20Split%20Landing%20Page)                       | [Live Demo](https://codepen.io/majid_alilouch/full/NWOGVww)  |
 
 This repository is based on 2 courses by Brad Traversy:
 
