@@ -30,6 +30,8 @@ Mini Projects Using HTML, CSS And Vanilla Javascript
 | 025 | [Blurry Loading](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/025%20-%20Blurry%20Loading)                                 | [Live Demo](https://codepen.io/majid_alilouch/full/QWZbVRO)  |
 | 026 | [Scroll Animation](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/026%20-%20Scroll%20Animation)                             | [Live Demo](https://codepen.io/majid_alilouch/full/poxjmrV)  |
 | 027 | [Split Landing Page](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/027%20-%20Split%20Landing%20Page)                       | [Live Demo](https://codepen.io/majid_alilouch/full/NWOGVww)  |
+| 028 | [Form Wave](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/028%20-%20Form%20Wave)                                           | [Live Demo](https://codepen.io/majid_alilouch/full/QWZMMdb)  |
+| 029 | [Sound Board](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/029%20-%20Sound%20Board)                                       | [Live Demo](https://codepen.io/majid_alilouch/full/QWZMMpj)  |
 
 This repository is based on 2 courses by Brad Traversy:
 
