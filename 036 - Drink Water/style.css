@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap");
+
+:root {
+  --border-color: #144fc6;
+  --fill-color: #6ab3f8;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #3494e4;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.container {
+  text-align: center;
+}
+
+.container h2 {
+  font-size: 35px;
+  margin-bottom: 15px;
+}
+
+.container > p:first-of-type {
+  margin-bottom: 40px;
+  font-size: 18px;
+}
+
+.container .big-galss {
+  background-color: white;
+  color: var(--border-color);
+  width: 150px;
+  height: 300px;
+  margin: 0 auto 30px;
+  border: 4px solid var(--border-color);
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  overflow: hidden;
+}
+
+.container .big-galss .liters-remained {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.container .big-galss .liters-remained div span {
+  display: block;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.container .big-galss .fill {
+  height: 0;
+  background-color: var(--fill-color);
+  transition: 0.3s;
+}
+
+.container > p:last-of-type {
+  margin: 30px 0;
+}
+
+.container .glasses {
+  width: 300px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.container .glasses .glass {
+  width: calc((100% - 30px) / 4);
+  background-color: white;
+  color: var(--border-color);
+  display: flex;
+  place-items: center;
+  font-size: 14px;
+  padding: 8px;
+  border: 4px solid var(--border-color);
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  height: 100px;
+  cursor: pointer;
+  transition: 0.3s;
+}
