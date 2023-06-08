@@ -36,10 +36,10 @@ Mini Projects Using HTML, CSS And Vanilla Javascript
 | 031 | [Event Keycodes](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/031%20-%20Event%20Keycodes)                                 | [Live Demo](https://codepen.io/majid_alilouch/full/OJBjjpe)  |
 | 032 | [Faq Collapse](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/032%20-%20Faq%20Collapse)                                     | [Live Demo](https://codepen.io/majid_alilouch/full/gOBxxxJ)  |
 | 033 | [Random Choise Picker](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/033%20-%20Random%20Choise%20Picker)                   | [Live Demo](https://codepen.io/majid_alilouch/full/eYPEEGW)  |
-| 034 | [Animated Navigation](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/034%20-%20Animated%20Navigation)                       | [Live Demo](https://codepen.io/majid_alilouch/full/eYPEEGW)  |
-| 035 | [Incrementing Counter](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/035%20-%20Incrementing%20Counter)                     | [Live Demo](https://codepen.io/majid_alilouch/full/eYPEEGW)  |
-| 036 | [Drink Water](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/036%20-%20Drink%20Water)                                       | [Live Demo](https://codepen.io/majid_alilouch/full/eYPEEGW)  |
-| 037 | [Movie App](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/037%20-%20Movie%20App)                                           | [Live Demo](https://codepen.io/majid_alilouch/full/eYPEEGW)  |
+| 034 | [Animated Navigation](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/034%20-%20Animated%20Navigation)                       | [Live Demo](https://codepen.io/majid_alilouch/full/qBQEVbw)  |
+| 035 | [Incrementing Counter](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/035%20-%20Incrementing%20Counter)                     | [Live Demo](https://codepen.io/majid_alilouch/full/QWJwONM)  |
+| 036 | [Drink Water](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/036%20-%20Drink%20Water)                                       | [Live Demo](https://codepen.io/majid_alilouch/full/rNQaYer)  |
+| 037 | [Movie App](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/037%20-%20Movie%20App)                                           | [Live Demo](https://codepen.io/majid_alilouch/full/oNQgwWv)  |
 
 This repository is based on 2 courses by Brad Traversy:
 
