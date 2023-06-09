@@ -23,8 +23,8 @@ Mini Projects Using HTML, CSS And Vanilla Javascript
 | 016 | [Create Typing Speed Test Game](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/016%20-%20Create%20Typing%20Speed%20Test%20Game)| [Live Demo](https://codepen.io/majid_alilouch/full/WNgqRvZ)  |
 | 017 | [Create Image Slider](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/017%20-%20Create%20Image%20Slider)                     | [Live Demo](https://codepen.io/majid_alilouch/full/MWqMJaX)  |
 | 018 | [Memory Game](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/018%20-%20Memory%20Game)                                       | [Live Demo](https://codepen.io/majid_alilouch/full/BaqaKqE)  |
-| 018 | [Hangman Game](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/018%20-%20create%20hangman%20game)                            | [Live Demo]()  |
-| 018 | [Quiz App](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/018%20-%20create%20quiz%20app)                                    | [Live Demo]()  |
+| 018 | [Hangman Game](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/019%20-%20create%20hangman%20game)                            | [Live Demo]()  |
+| 018 | [Quiz App](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/020%20-%20create%20quiz%20app)                                    | [Live Demo]()  |
 | 021 | [Expanding Cards](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/021%20-%20Expanding%20Cards)                               | [Live Demo](https://codepen.io/majid_alilouch/full/eYPmdmM)  |
 | 022 | [Progress Steps](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/022%20-%20Progress%20Steps)                                 | [Live Demo](https://codepen.io/majid_alilouch/full/xxybEGm)  |
 | 023 | [Rotating Navigation Animation](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/023%20-%20Rotating%20Navigation%20Animation) | [Live Demo](https://codepen.io/majid_alilouch/full/qBJEJEd)  |
