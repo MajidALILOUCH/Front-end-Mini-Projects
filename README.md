@@ -44,7 +44,7 @@ Mini Projects Using HTML, CSS And Vanilla Javascript
 | 037 | [Movie App](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/037%20-%20Movie%20App)                                           | [Live Demo](https://codepen.io/majid_alilouch/full/oNQgwWv)  |
 | 038 | [Background Slider](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/038%20-%20background%20slider)                           | [Live Demo](https://codepen.io/majid_alilouch/full/OJayVRa)  |
 | 039 | [Theme Clock](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/039%20-%20Theme%20Clock)                                       | [Live Demo](https://codepen.io/majid_alilouch/full/PoxPqNd)  |
-| 040 | [Button Ripple Effect](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/040%20-%20Button%20Ripple%20Effect)                   | [Live Demo]()  |
+| 040 | [Button Ripple Effect](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/040%20-%20Button%20Ripple%20Effect)                   | [Live Demo](https://codepen.io/majid_alilouch/full/RwqWJve)  |
 
 This repository is based on 2 courses by Brad Traversy:
 
