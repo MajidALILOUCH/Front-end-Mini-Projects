@@ -45,6 +45,16 @@ Mini Projects Using HTML, CSS And Vanilla Javascript
 | 038 | [Background Slider](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/038%20-%20background%20slider)                           | [Live Demo](https://codepen.io/majid_alilouch/full/OJayVRa)  |
 | 039 | [Theme Clock](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/039%20-%20Theme%20Clock)                                       | [Live Demo](https://codepen.io/majid_alilouch/full/PoxPqNd)  |
 | 040 | [Button Ripple Effect](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/040%20-%20Button%20Ripple%20Effect)                   | [Live Demo](https://codepen.io/majid_alilouch/full/RwqWJve)  |
+| 041 | [drag n drop](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/041%20-%20drag%20n%20drop)                                     | [Live Demo](https://codepen.io/majid_alilouch/full/LYXdzvK)  |
+| 042 | [drawing app](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/042%20-%20drawing%20app)                                       | [Live Demo](https://codepen.io/majid_alilouch/full/NWEYaVg)  |
+| 043 | [kinetic loader](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/043%20-%20kinetic%20loader)                                 | [Live Demo](https://codepen.io/majid_alilouch/full/abQYLrX)  |
+| 044 | [content placeholder](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/044%20-%20content%20placeholder)                       | [Live Demo](https://codepen.io/majid_alilouch/full/GRwxMbZ)  |
+| 045 | [sticky navbar](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/045%20-%20sticky%20navbar)                                   | [Live Demo](https://codepen.io/majid_alilouch/full/qBQoPzz)  |
+| 046 | [vertical slider](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/046%20-%20vertical%20slider)                               | [Live Demo](https://codepen.io/majid_alilouch/full/BaGrwXW)  |
+| 047 | [toast notification](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/047%20-%20toast%20notification)                         | [Live Demo](https://codepen.io/majid_alilouch/full/yLQKzmj)  |
+| 048 | [github profiles](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/048%20-%20github%20profiles)                               | [Live Demo](https://codepen.io/majid_alilouch/full/ExOEwqr)  |
+| 049 | [double click heart](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/049%20-%20double%20click%20heart)                       | [Live Demo](https://codepen.io/majid_alilouch/full/VwVXrZY)  |
+| 050 | [auto text effect](https://github.com/MajidALILOUCH/Front-end-Mini-Projects/tree/main/050%20-%20auto%20text%20effect)                           | [Live Demo](https://codepen.io/majid_alilouch/full/NWEYwKv)  |
 
 This repository is based on 2 courses by Brad Traversy:
 
