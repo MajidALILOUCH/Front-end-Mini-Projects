@@ -64,10 +64,10 @@ let allKeys = Object.keys(words);
 // Random Number Depend On Keys Length
 let randomPropNumber = Math.floor(Math.random() * allKeys.length);
 
-// Category
+// random Category
 let randomPropName = allKeys[randomPropNumber];
 
-// Category Words
+// random Category Words
 let randomPropValue = words[randomPropName];
 
 // Random Number Depend On Words
@@ -182,3 +182,139 @@ function endGame() {
   // Append To The Body
   document.body.appendChild(div);
 }
+
+// my code
+
+// let wrongMessage = document.querySelector(".wrong span");
+// let wrongLettersDiv = document.querySelector(".wrong-letters");
+// let word = document.querySelector(".word");
+// let man = document.querySelectorAll(".horca .man");
+// let sameLetterAlert = document.querySelector(".same-letter");
+// let popup = document.querySelector(".popup");
+// let playAgain = document.getElementById("play-again");
+// let finalMessage = document.querySelector(".final-message");
+
+// let words = ["majid", "elzero", "machota", "btata"];
+
+// let randomWord = words[Math.floor(Math.random() * words.length)];
+
+// let randomWordLetters = randomWord.split("");
+
+// console.log(randomWord);
+
+// // reseting the dom when playagain is clicked
+// function resetDom() {
+//   document.querySelectorAll(".letter").forEach((span) => {
+//     span.style.display = "none";
+//     span.classList.remove("showed");
+//   });
+
+//   man.forEach((part) => {
+//     part.style.cssText = "display: none";
+//   });
+
+//   wrongMessage.innerHTML = "";
+//   wrongLettersDiv.innerHTML = "";
+//   index = 0;
+//   wrongLetters = [];
+//   rightLetters = [];
+
+//   randomWord = words[Math.floor(Math.random() * words.length)];
+
+//   randomWordLetters = randomWord.split("");
+// }
+
+// randomWordLetters.forEach((letter) => {
+//   // create the letter container
+//   let letterContainer = document.createElement("div");
+//   letterContainer.className = "letter-container";
+
+//   // create letter span
+//   let letterSpan = document.createElement("span");
+//   letterSpan.classList.add("letter");
+//   let letterSpanContent = document.createTextNode(letter);
+//   letterSpan.appendChild(letterSpanContent);
+
+//   // create the border of the div container
+//   let border = document.createElement("span");
+//   border.classList.add("border");
+
+//   letterContainer.appendChild(letterSpan);
+//   letterContainer.appendChild(border);
+
+//   word.appendChild(letterContainer);
+// });
+
+// let index = 0;
+// let wrongLetters = [];
+// let rightLetters = [];
+
+// window.addEventListener("keydown", (event) => {
+//   // if our word contains the letter that we clicked in
+//   if (randomWordLetters.includes(event.key)) {
+//     // shoAlert if the letter is already clicked and showed
+//     if (rightLetters.includes(event.key)) {
+//       showAlert();
+//     } else {
+//       rightLetters.push(event.key);
+//     }
+
+//     // show the letters that are equal to letter that we clicked
+//     document.querySelectorAll(".letter").forEach((span) => {
+//       if (span.innerHTML === event.key) {
+//         span.style.display = "block";
+//         span.classList.add("showed");
+//       }
+//       let showedSpans = 0;
+//       document.querySelectorAll(".letter").forEach((letter) => {
+//         if (letter.classList.contains("showed")) {
+//           showedSpans++;
+//         }
+//       });
+//       if (randomWordLetters.length == showedSpans) {
+//         popup.classList.add("show");
+//         finalMessage.innerHTML = "Congratulations! You won! 😃";
+//       }
+//     });
+//   } else {
+//     // check if the letter was entered to show the alert
+//     if (wrongLetters.includes(event.key)) {
+//       showAlert();
+//     } else {
+//       // show the wrong message
+//       wrongMessage.innerHTML = "wrong";
+
+//       // show the part of man
+//       man[index].style.cssText = "display: block";
+
+//       // push the letter to wrongLetters array to check later if we entered this letter by this array
+//       wrongLetters.push(event.key);
+
+//       if (wrongLetters.length >= 6) {
+//         popup.classList.add("show");
+//         finalMessage.innerHTML = "Unfortunately you lost. 😕";
+//       }
+
+//       // show the wrong letter below the wrong message
+//       let span = document.createElement("span");
+//       span.appendChild(document.createTextNode(event.key));
+//       wrongLettersDiv.appendChild(span);
+
+//       // increase the index to show the next part of the man
+//       index++;
+//     }
+//   }
+// });
+
+// function showAlert() {
+//   sameLetterAlert.classList.add("show");
+//   // hide the alert after 2 seconds
+//   setTimeout(() => {
+//     sameLetterAlert.classList.remove("show");
+//   }, 2000);
+// }
+
+// playAgain.addEventListener("click", () => {
+//   popup.classList.remove("show");
+//   resetDom();
+// });

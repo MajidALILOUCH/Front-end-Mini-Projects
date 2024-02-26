@@ -242,3 +242,233 @@ hr {
   border: 1px solid #ccc;
   color: #fff;
 }
+/* my code */
+
+/* * {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(113, 41, 230);
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  color: white;
+  margin: 30px;
+  text-align: center;
+}
+
+.container h2 {
+  margin: 0;
+  font-size: 30px;
+}
+
+.container .wrong {
+  margin: 60px auto 0;
+  height: 80px;
+}
+
+.container .wrong span {
+  font-size: 25px;
+}
+
+.container .wrong .wrong-letters {
+  margin-top: 20px;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.container .wrong .wrong-letters span {
+  border: 2px solid white;
+  color: red;
+  padding: 5px;
+}
+
+.container .horca {
+  margin: 100px auto 0;
+  background-color: rgb(97, 32, 200);
+  width: 300px;
+  height: 300px;
+  position: relative;
+}
+
+.container .horca .man {
+  display: none;
+}
+
+.container .horca div {
+  background-color: white;
+  position: absolute;
+}
+
+.container .horca div:nth-of-type(1) {
+  width: 100px;
+  height: 5px;
+  bottom: 0;
+  left: 0;
+}
+
+.container .horca div:nth-of-type(2) {
+  width: 5px;
+  height: 100%;
+  bottom: 0;
+  left: 50px;
+}
+
+.container .horca div:nth-of-type(3) {
+  width: 100px;
+  height: 5px;
+  left: 50px;
+}
+
+.container .horca div:nth-of-type(4) {
+  width: 5px;
+  height: 50px;
+  left: 150px;
+}
+
+.container .horca div:nth-of-type(5) {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 5px solid white;
+  background-color: transparent;
+  left: 125px;
+  top: 50px;
+}
+
+.container .horca div:nth-of-type(6) {
+  width: 5px;
+  height: 100px;
+  left: 150px;
+  top: 100px;
+}
+
+.container .horca div:nth-of-type(7) {
+  width: 5px;
+  height: 50px;
+  left: 150px;
+  top: 130px;
+  transform: rotate(120deg);
+  transform-origin: top;
+}
+
+.container .horca div:nth-of-type(8) {
+  width: 5px;
+  height: 50px;
+  left: 150px;
+  top: 130px;
+  transform: rotate(-120deg);
+  transform-origin: top;
+}
+
+.container .horca div:nth-of-type(9) {
+  width: 5px;
+  height: 50px;
+  left: 150px;
+  top: 200px;
+  transform: rotate(45deg);
+  transform-origin: top;
+}
+
+.container .horca div:nth-of-type(10) {
+  width: 5px;
+  height: 50px;
+  left: 150px;
+  top: 200px;
+  transform: rotate(-45deg);
+  transform-origin: top;
+}
+
+.word {
+  margin-top: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.word .letter-container {
+  font-size: 25px;
+  font-weight: bold;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.word .letter-container .letter {
+  display: none;
+  height: calc(30px - 4px);
+}
+
+.word .letter-container .border {
+  align-self: flex-end;
+  display: block;
+  background-color: rgb(43, 99, 252);
+  width: 100%;
+  height: 4px;
+}
+
+.same-letter {
+  position: fixed;
+  bottom: -100%;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  background-color: rgb(97, 32, 200);
+  padding: 15px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  transition: 0.5s;
+}
+
+.popup {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(0, 0, 0, 40%);
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.popup.show {
+  display: flex;
+}
+
+.popup .content {
+  background-color: rgb(198, 35, 198);
+  color: white;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 0 5px black;
+}
+
+.popup #play-again {
+  border: 0;
+  background-color: white;
+  color: rgb(198, 35, 198);
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+.same-letter.show {
+  bottom: 0;
+  text-align: center;
+  line-height: 1.6;
+} */
